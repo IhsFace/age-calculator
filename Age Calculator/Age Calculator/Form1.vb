@@ -19,6 +19,7 @@
         If String.IsNullOrEmpty(strName) Then
             ' This if statement checks if the user's name has not been entered
             MsgBox("Please enter your name. This field is required.")
+            txtName.Focus()
             Return
             ' If the user's name has not been entered a message box is opened and returns a warning
             ' The rest of the code below will be skipped

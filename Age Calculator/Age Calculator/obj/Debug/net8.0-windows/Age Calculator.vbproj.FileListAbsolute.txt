@@ -14,3 +14,4 @@ C:\Users\ihsaa\Projects\age-calculator\Age Calculator\Age Calculator\obj\Debug\n
 C:\Users\ihsaa\Projects\age-calculator\Age Calculator\Age Calculator\obj\Debug\net8.0-windows\Age Calculator.pdb
 C:\Users\ihsaa\Projects\age-calculator\Age Calculator\Age Calculator\obj\Debug\net8.0-windows\Age Calculator.genruntimeconfig.cache
 C:\Users\ihsaa\Projects\age-calculator\Age Calculator\Age Calculator\obj\Debug\net8.0-windows\ref\Age Calculator.dll
+C:\Users\ihsaa\Projects\age-calculator\Age Calculator\Age Calculator\obj\Debug\net8.0-windows\Age Calculator.sourcelink.json
