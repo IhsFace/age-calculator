@@ -114,7 +114,7 @@ Partial Class Form1
         Controls.Add(txtName)
         Controls.Add(Label1)
         Name = "Form1"
-        Text = "Form1"
+        Text = "Age Calculator"
         ResumeLayout(False)
         PerformLayout()
     End Sub
